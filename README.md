@@ -1,2 +1,2 @@
 # psswd-gen
-A GUI password generator
+A simple GUI password generator
